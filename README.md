@@ -4,7 +4,12 @@ My name is **Rohit kumar**. I am 19 years old and i am pursuing my btech in **co
 #HOBBY:- My hobby is reading books and i love to cook in free time. except this i also love gardening.
 My favourite sport is BADMINTON and i have played this sport at school level.
 
-|SUBJECT| | MAX MARKS| |OBTAINED MARKS|
-----------------------------------------
-|MATHS|   |100|        |100|
-|PHYSICS| |100|        |94|
+|SUBJECT  |  MAX MARKS| |OBTAINED MARKS|
+--------  | ----------| ---------------|
+|MATHS    |  100      |  100           |
+|PHYSICS  |  100      |  94            |
+|ENGLISH  |  100      |  98            |
+|PUNJABI  |  100      |  96            |
+|CHEMISTRY|  100      |  99            |
+
+
