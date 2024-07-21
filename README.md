@@ -14,6 +14,11 @@ Following is my detail marks obtained by me in 12th class
 |CHEMISTRY|  100      |  99            |
 
 ##MY ACTIVITY REPORT OF 2024 INDUCTION PROGRAM IN GURU NANAK DEV ENGINEERING COLLEGE
+Please click on the following link
+
+[your link here](https://rohit7718beep.github.io/Rohit77188beep.github.io/)
+
+##I HAVE ALSO COMPLETED MY EXCEL COURSE FROM GREAT LEARNING 
 
 
 
