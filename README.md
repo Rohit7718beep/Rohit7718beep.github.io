@@ -15,6 +15,7 @@ Following is my detail marks obtained by me in 12th class
 
 ##MY ACTIVITY REPORT OF 2024 INDUCTION PROGRAM IN GURU NANAK DEV ENGINEERING COLLEGE
 
+![logo_17](https://github.com/user-attachments/assets/515403fe-1d49-4ad1-9b3f-008cc5784a7d)
 
 Please click on the following link
 
