@@ -44,6 +44,10 @@ Please click on the following link for the activity report
 MY SOCIAL MEDIA ACCOUNT
  
 [INSTAGRAM](https://www.instagram.com/rohit__44302?igsh=dmlkMnFsbDEyaGpi)
+ 
+SCAN IT
+
+![Screenshot_20240728_221243_Instagram.jpg](https://github.com/user-attachments/assets/1561030e-7a41-4e5b-86dd-f6c5314e62b6)
 
 
 
