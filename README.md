@@ -29,6 +29,10 @@ Please click on the following link for the activity report
 
 ![1000014003](https://github.com/user-attachments/assets/9220aa90-45fb-46df-b84f-d95896f6392f)
 
+I HAVE ALSO COMPLETED MY BASIC COURSE IN PYTHON
+
+![Screenshot_20240727_170358_Great Learning](https://github.com/user-attachments/assets/47adeb48-9307-4113-be9e-980724bccdb3)
+
 
 
 
