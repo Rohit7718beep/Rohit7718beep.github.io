@@ -41,11 +41,11 @@ Please click on the following link for the activity report
 ![Screenshot_20240727_170358_Great Learning](https://github.com/user-attachments/assets/47adeb48-9307-4113-be9e-980724bccdb3)
 
 
-MY SOCIAL MEDIA ACCOUNT
+# MY SOCIAL MEDIA ACCOUNT
  
 [INSTAGRAM](https://www.instagram.com/rohit__44302?igsh=dmlkMnFsbDEyaGpi)
  
-SCAN IT
+## SCAN IT
 
 ![Screenshot_20240728_221243_Instagram.jpg](https://github.com/user-attachments/assets/1561030e-7a41-4e5b-86dd-f6c5314e62b6)
 
