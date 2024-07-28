@@ -6,7 +6,7 @@ My name is **Rohit kumar**. I am 19 years old and i am pursuing my btech in **co
 My favourite sport is BADMINTON and i have played this sport at school level.
 Following is my detail marks obtained by me in 12th class
 
-|SUBJECT  |  MAX MARKS||OBTAINED MARKS|
+|SUBJECT  |  MAX MARKS| OBTAINED MARKS|
 --------  | ----------| --------------|
 |MATHS    |  100      |  100          |
 |PHYSICS  |  100      |  94           |          |ENGLISH  |  100      |  98           |
