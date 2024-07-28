@@ -9,10 +9,10 @@ Following is my detail marks obtained by me in 12th class
 |SUBJECT  |  MAX MARKS| OBTAINED MARKS|
 |-------  | ----------| --------------|
 |MATHS    |  100      |  100          |
-|PHYSICS  |  100      |  94           |        |ENGLISH  |  100      |  98           |
+|PHYSICS  |  100      |  94           |       
 |PUNJABI  |  100      |  96           |
 |CHEMISTRY|  100      |  99           |
-
+|ENGLISH |  100      |  98           |
 ## MY ACTIVITY REPORT OF 2024 INDUCTION PROGRAM IN GURU NANAK DEV ENGINEERING COLLEGE
 
 ![logo_17](https://github.com/user-attachments/assets/515403fe-1d49-4ad1-9b3f-008cc5784a7d)
