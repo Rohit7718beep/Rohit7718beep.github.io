@@ -27,7 +27,7 @@ Following is my detail marks obtained by me in 12th class.
 
 Please click on the following link for the activity report
 
-# _[ACTIVITY REPORT 2024 INDUCTION PROGRAM LINK](https://rohit7718beep.github.io/Rohit77188beep.github.io/)
+# [ACTIVITY REPORT 2024 INDUCTION PROGRAM LINK](https://rohit7718beep.github.io/Rohit77188beep.github.io/)
 
 
 
