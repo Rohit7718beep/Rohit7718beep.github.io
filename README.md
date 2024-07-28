@@ -7,9 +7,9 @@ My favourite sport is BADMINTON and i have played this sport at school level.
 Following is my detail marks obtained by me in 12th class
 
 |SUBJECT  |  MAX MARKS| OBTAINED MARKS|
---------  | ----------| --------------|
+|-------  | ----------| --------------|
 |MATHS    |  100      |  100          |
-|PHYSICS  |  100      |  94           |          |ENGLISH  |  100      |  98           |
+|PHYSICS  |  100      |  94           |        |ENGLISH  |  100      |  98           |
 |PUNJABI  |  100      |  96           |
 |CHEMISTRY|  100      |  99           |
 
